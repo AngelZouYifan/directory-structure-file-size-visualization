@@ -1,0 +1,294 @@
+id,path,text_name,extension,size,folder,num_files,depth,parent,uid
+1,Google_20221008/,,,1571509121,1,190,0,0,501
+2,Google_20221008/Google 商家资料,Google 商家资料,,197,1,2,1,1,501
+3,Google_20221008/Google 商家资料/businessPersonalization.json,businessPersonalization,json,3,0,,1,2,501
+4,Google_20221008/Google 商家资料/account-117982046330366765940,account-117982046330366765940,,98,1,1,2,2,501
+5,Google_20221008/Google 商家资料/account-117982046330366765940/data.json,data,json,98,0,,2,4,501
+6,Google_20221008/Google 地图,Google 地图,,1451,1,6,1,1,501
+7,Google_20221008/Google 地图/服务请求,服务请求,,1,1,1,2,6,501
+8,Google_20221008/Google 地图/服务请求/服务请求.json,服务请求,json,1,0,,2,7,501
+9,Google_20221008/Google 地图/电动汽车设置,电动汽车设置,,37,1,1,2,6,501
+10,Google_20221008/Google 地图/电动汽车设置/电动汽车设置.json,电动汽车设置,json,37,0,,2,9,501
+11,Google_20221008/Google 地图/您的个性化反馈,您的个性化反馈,,21,1,1,2,6,501
+12,Google_20221008/Google 地图/您的个性化反馈/您的个性化反馈.csv,您的个性化反馈,csv,21,0,,2,11,501
+13,Google_20221008/Google 地图/通勤路线,通勤路线,,716,1,1,2,6,501
+14,Google_20221008/Google 地图/通勤路线/通勤路线.json,通勤路线,json,716,0,,2,13,501
+15,Google_20221008/Google 地图/添加的菜肴、产品、活动,添加的菜肴、产品、活动,,25,1,1,2,6,501
+16,Google_20221008/Google 地图/添加的菜肴、产品、活动/添加的菜肴、产品、活动.json,添加的菜肴、产品、活动,json,25,0,,2,15,501
+17,Google_20221008/Google 地图/问题和解答,问题和解答,,75,1,1,2,6,501
+18,Google_20221008/Google 地图/问题和解答/问题和解答.json,问题和解答,json,75,0,,2,17,501
+19,Google_20221008/我的活动,我的活动,,49010853,1,21,1,1,501
+20,Google_20221008/我的活动/Google News,Google News,,149713,1,1,2,19,501
+21,Google_20221008/我的活动/Google News/MyActivity.html,MyActivity,html,149713,0,,2,20,501
+22,Google_20221008/我的活动/Maps,Maps,,9204700,1,1,2,19,501
+23,Google_20221008/我的活动/Maps/MyActivity.html,MyActivity,html,9204700,0,,2,22,501
+24,Google_20221008/我的活动/Ads,Ads,,2221773,1,1,2,19,501
+25,Google_20221008/我的活动/Ads/MyActivity.html,MyActivity,html,2221773,0,,2,24,501
+26,Google_20221008/我的活动/Google Lens,Google Lens,,142633,1,1,2,19,501
+27,Google_20221008/我的活动/Google Lens/MyActivity.html,MyActivity,html,142633,0,,2,26,501
+28,Google_20221008/我的活动/Video Search,Video Search,,217084,1,1,2,19,501
+29,Google_20221008/我的活动/Video Search/MyActivity.html,MyActivity,html,217084,0,,2,28,501
+30,Google_20221008/我的活动/Google Analytics,Google Analytics,,869023,1,1,2,19,501
+31,Google_20221008/我的活动/Google Analytics/MyActivity.html,MyActivity,html,869023,0,,2,30,501
+32,Google_20221008/我的活动/Google Play Store,Google Play Store,,178739,1,1,2,19,501
+33,Google_20221008/我的活动/Google Play Store/MyActivity.html,MyActivity,html,178739,0,,2,32,501
+34,Google_20221008/我的活动/Books,Books,,144640,1,1,2,19,501
+35,Google_20221008/我的活动/Books/MyActivity.html,MyActivity,html,144640,0,,2,34,501
+36,Google_20221008/我的活动/YouTube,YouTube,,1967100,1,1,2,19,501
+37,Google_20221008/我的活动/YouTube/MyActivity.html,MyActivity,html,1967100,0,,2,36,501
+38,Google_20221008/我的活动/Google Apps,Google Apps,,167483,1,1,2,19,501
+39,Google_20221008/我的活动/Google Apps/MyActivity.html,MyActivity,html,167483,0,,2,38,501
+40,Google_20221008/我的活动/Search,Search,,19417938,1,1,2,19,501
+41,Google_20221008/我的活动/Search/MyActivity.html,MyActivity,html,19417938,0,,2,40,501
+42,Google_20221008/我的活动/Android,Android,,205084,1,1,2,19,501
+43,Google_20221008/我的活动/Android/MyActivity.html,MyActivity,html,205084,0,,2,42,501
+44,Google_20221008/我的活动/Chrome,Chrome,,12239013,1,1,2,19,501
+45,Google_20221008/我的活动/Chrome/MyActivity.html,MyActivity,html,12239013,0,,2,44,501
+46,Google_20221008/我的活动/Google Store,Google Store,,142875,1,1,2,19,501
+47,Google_20221008/我的活动/Google Store/MyActivity.html,MyActivity,html,142875,0,,2,46,501
+48,Google_20221008/我的活动/Google Translate,Google Translate,,142820,1,1,2,19,501
+49,Google_20221008/我的活动/Google Translate/MyActivity.html,MyActivity,html,142820,0,,2,48,501
+50,Google_20221008/我的活动/Image Search,Image Search,,820555,1,1,2,19,501
+51,Google_20221008/我的活动/Image Search/MyActivity.html,MyActivity,html,820555,0,,2,50,501
+52,Google_20221008/我的活动/Drive,Drive,,152945,1,1,2,19,501
+53,Google_20221008/我的活动/Drive/MyActivity.html,MyActivity,html,152945,0,,2,52,501
+54,Google_20221008/我的活动/Travel,Travel,,144560,1,1,2,19,501
+55,Google_20221008/我的活动/Travel/MyActivity.html,MyActivity,html,144560,0,,2,54,501
+56,Google_20221008/我的活动/Gmail,Gmail,,148535,1,1,2,19,501
+57,Google_20221008/我的活动/Gmail/MyActivity.html,MyActivity,html,148535,0,,2,56,501
+58,Google_20221008/我的活动/Help,Help,,179991,1,1,2,19,501
+59,Google_20221008/我的活动/Help/MyActivity.html,MyActivity,html,179991,0,,2,58,501
+60,Google_20221008/我的活动/Developers,Developers,,151633,1,1,2,19,501
+61,Google_20221008/我的活动/Developers/MyActivity.html,MyActivity,html,151633,0,,2,60,501
+62,Google_20221008/Tasks,Tasks,,56463,1,1,1,1,501
+63,Google_20221008/Tasks/Tasks.json,Tasks,json,56463,0,,1,62,501
+64,Google_20221008/位置记录,位置记录,,1251,1,1,1,1,501
+65,Google_20221008/位置记录/Settings.json,Settings,json,1251,0,,1,64,501
+66,Google_20221008/我的地图,我的地图,,4634,1,3,1,1,501
+67,Google_20221008/我的地图/2021.12.11-15 Chicago City.kmz,2021.12.11-15 Chicago City,kmz,2043,0,,1,66,501
+68,Google_20221008/我的地图/2022.3.21-24 New York City.kmz,2022.3.21-24 New York City,kmz,1126,0,,1,66,501
+69,Google_20221008/我的地图/2022.12.22-28 Swizterland.kmz,2022.12.22-28 Swizterland,kmz,1465,0,,1,66,501
+70,Google_20221008/Google Workspace Marketplace,Google Workspace Marketplace,,415,1,1,1,1,501
+71,Google_20221008/Google Workspace Marketplace/README,README,,415,0,,1,70,501
+72,Google_20221008/新闻,新闻,,0,1,5,1,1,501
+73,Google_20221008/新闻/magazines.txt,magazines,txt,0,0,,1,72,501
+74,Google_20221008/新闻/followed_sources.txt,followed_sources,txt,0,0,,1,72,501
+75,Google_20221008/新闻/followed_topics.txt,followed_topics,txt,0,0,,1,72,501
+76,Google_20221008/新闻/followed_locations.txt,followed_locations,txt,0,0,,1,72,501
+77,Google_20221008/新闻/articles.txt,articles,txt,0,0,,1,72,501
+78,Google_20221008/Google 购物,Google 购物,,997,1,8,1,1,501
+79,Google_20221008/Google 购物/Collection Point,Collection Point,,32,1,1,2,78,501
+80,Google_20221008/Google 购物/Collection Point/Collection Point.txt,Collection Point,txt,32,0,,2,79,501
+81,Google_20221008/Google 购物/Merchant Reviews,Merchant Reviews,,30,1,1,2,78,501
+82,Google_20221008/Google 购物/Merchant Reviews/Merchant Reviews.txt,Merchant Reviews,txt,30,0,,2,81,501
+83,Google_20221008/Google 购物/Order Preferred Contact Emails,Order Preferred Contact Emails,,28,1,1,2,78,501
+84,Google_20221008/Google 购物/Order Preferred Contact Emails/Order Preferred Contact Emails.txt,Order Preferred Contact Emails,txt,28,0,,2,83,501
+85,Google_20221008/Google 购物/Loyalty,Loyalty,,45,1,1,2,78,501
+86,Google_20221008/Google 购物/Loyalty/Loyalty.txt,Loyalty,txt,45,0,,2,85,501
+87,Google_20221008/Google 购物/Addresses,Addresses,,32,1,1,2,78,501
+88,Google_20221008/Google 购物/Addresses/Addresses.txt,Addresses,txt,32,0,,2,87,501
+89,Google_20221008/Google 购物/Product Reviews,Product Reviews,,30,1,1,2,78,501
+90,Google_20221008/Google 购物/Product Reviews/Product Reviews.txt,Product Reviews,txt,30,0,,2,89,501
+91,Google_20221008/Google 购物/Orders,Orders,,0,1,1,2,78,501
+92,Google_20221008/Google 购物/Orders/Orders.txt,Orders,txt,0,0,,2,91,501
+93,Google_20221008/Google 购物/Person Collecting,Person Collecting,,32,1,1,2,78,501
+94,Google_20221008/Google 购物/Person Collecting/Person Collecting.txt,Person Collecting,txt,32,0,,2,93,501
+95,Google_20221008/归档_一览.html,归档_一览,html,752800,0,,0,1,501
+96,Google_20221008/YouTube 和 YouTube Music,YouTube 和 YouTube Music,,2793072,1,15,1,1,501
+97,Google_20221008/YouTube 和 YouTube Music/我的评论,我的评论,,472,1,1,2,96,501
+98,Google_20221008/YouTube 和 YouTube Music/我的评论/我的评论.html,我的评论,html,472,0,,2,97,501
+99,Google_20221008/YouTube 和 YouTube Music/播放列表,播放列表,,6952,1,11,2,96,501
+100,Google_20221008/YouTube 和 YouTube Music/播放列表/Baking.csv,Baking,csv,449,0,,2,99,501
+101,Google_20221008/YouTube 和 YouTube Music/播放列表/Art.csv,Art,csv,374,0,,2,99,501
+102,Google_20221008/YouTube 和 YouTube Music/播放列表/Media Studies.csv,Media Studies,csv,570,0,,2,99,501
+103,Google_20221008/YouTube 和 YouTube Music/播放列表/Zoology.csv,Zoology,csv,306,0,,2,99,501
+104,Google_20221008/YouTube 和 YouTube Music/播放列表/Poetry_Literature.csv,Poetry_Literature,csv,352,0,,2,99,501
+105,Google_20221008/YouTube 和 YouTube Music/播放列表/Uploads from Yifan Zou.csv,Uploads from Yifan Zou,csv,187,0,,2,99,501
+106,Google_20221008/YouTube 和 YouTube Music/播放列表/Music.csv,Music,csv,484,0,,2,99,501
+107,Google_20221008/YouTube 和 YouTube Music/播放列表/Liked videos.csv,Liked videos,csv,2211,0,,2,99,501
+108,Google_20221008/YouTube 和 YouTube Music/播放列表/History_Society.csv,History_Society,csv,278,0,,2,99,501
+109,Google_20221008/YouTube 和 YouTube Music/播放列表/Watch later.csv,Watch later,csv,1354,0,,2,99,501
+110,Google_20221008/YouTube 和 YouTube Music/播放列表/English Learning.csv,English Learning,csv,387,0,,2,99,501
+111,Google_20221008/YouTube 和 YouTube Music/订阅内容,订阅内容,,3537,1,1,2,96,501
+112,Google_20221008/YouTube 和 YouTube Music/订阅内容/订阅内容.csv,订阅内容,csv,3537,0,,2,111,501
+113,Google_20221008/YouTube 和 YouTube Music/历史记录,历史记录,,2781375,1,2,2,96,501
+114,Google_20221008/YouTube 和 YouTube Music/历史记录/观看记录.html,观看记录,html,1688711,0,,2,113,501
+115,Google_20221008/YouTube 和 YouTube Music/历史记录/搜索记录.html,搜索记录,html,1092664,0,,2,113,501
+116,Google_20221008/通讯录,通讯录,,1603,1,3,1,1,501
+117,Google_20221008/通讯录/Starred in Android,Starred in Android,,0,1,1,2,116,501
+118,Google_20221008/通讯录/Starred in Android/Starred in Android.vcf,Starred in Android,vcf,0,0,,2,117,501
+119,Google_20221008/通讯录/通讯录,通讯录,,129,1,1,2,116,501
+120,Google_20221008/通讯录/通讯录/通讯录.vcf,通讯录,vcf,129,0,,2,119,501
+121,Google_20221008/通讯录/所有联系人,所有联系人,,1186,1,1,2,116,501
+122,Google_20221008/通讯录/所有联系人/所有联系人.vcf,所有联系人,vcf,1186,0,,2,121,501
+123,Google_20221008/个人资料,个人资料,,3240142,1,3,1,1,501
+124,Google_20221008/个人资料/个人资料照片,个人资料照片,,1602766,1,1,2,123,501
+125,Google_20221008/个人资料/个人资料照片/ProfilePicturePhoto.jpg,ProfilePicturePhoto,jpg,1602766,0,,2,124,501
+126,Google_20221008/个人资料/个人资料.json,个人资料,json,233,0,,1,123,501
+127,Google_20221008/个人资料/个人资料照片.jpg,个人资料照片,jpg,1637047,0,,1,123,501
+128,Google_20221008/云端硬盘,云端硬盘,,1268352493,1,76,1,1,501
+129,Google_20221008/云端硬盘/banana_data,banana_data,,626102537,1,1,2,128,501
+130,Google_20221008/云端硬盘/banana_data/avg_ds.zip,avg_ds,zip,626102537,0,,2,129,501
+131,Google_20221008/云端硬盘/Google 表单用户数据,Google 表单用户数据,,243,1,1,2,128,501
+132,Google_20221008/云端硬盘/Google 表单用户数据/表单草稿回复.csv,表单草稿回复,csv,243,0,,2,131,501
+133,Google_20221008/云端硬盘/Critical Posthumanities Wk2 9.7.docx,Critical Posthumanities Wk2 9.7,docx,9486,0,,1,128,501
+134,Google_20221008/云端硬盘/Colab Notebooks,Colab Notebooks,,31099,1,3,2,128,501
+135,Google_20221008/云端硬盘/Colab Notebooks/tlPractice.ipynb,tlPractice,ipynb,8333,0,,2,134,501
+136,Google_20221008/云端硬盘/Colab Notebooks/model_train_githubCp.ipynb,model_train_githubCp,ipynb,10006,0,,2,134,501
+137,Google_20221008/云端硬盘/Colab Notebooks/banana_model_train.ipynb,banana_model_train,ipynb,12760,0,,2,134,501
+138,Google_20221008/云端硬盘/cs231n,cs231n,,187117881,1,41,2,128,501
+139,Google_20221008/云端硬盘/cs231n/assignments,assignments,,187117785,1,41,3,138,501
+140,Google_20221008/云端硬盘/cs231n/assignments/assignment1,assignment1,,187117401,1,41,4,139,501
+141,Google_20221008/云端硬盘/cs231n/assignments/assignment1/two_layer_net.ipynb,two_layer_net,ipynb,24912,0,,4,140,501
+142,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n,cs231n,,186341663,1,32,5,140,501
+143,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/layer_utils.py,layer_utils,py,737,0,,5,142,501
+144,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/solver.py,solver,py,12285,0,,5,142,501
+145,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/gradient_check.py,gradient_check,py,3983,0,,5,142,501
+146,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets,datasets,,186214628,1,9,6,142,501
+147,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py,cifar-10-batches-py,,186214114,1,8,7,146,501
+148,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_1,data_batch_1,,31035704,0,,7,147,501
+149,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/readme.html,readme,html,88,0,,7,147,501
+150,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/batches.meta,batches,meta,158,0,,7,147,501
+151,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_2,data_batch_2,,31035320,0,,7,147,501
+152,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_5,data_batch_5,,31035623,0,,7,147,501
+153,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/test_batch,test_batch,,31035526,0,,7,147,501
+154,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_4,data_batch_4,,31035696,0,,7,147,501
+155,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_3,data_batch_3,,31035999,0,,7,147,501
+156,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/datasets/get_datasets.sh,get_datasets,sh,194,0,,6,146,501
+157,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/__init__.py,__init__,py,0,0,,5,142,501
+158,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/features.py,features,py,5313,0,,5,142,501
+159,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/__pycache__,__pycache__,,12018,1,3,6,142,501
+160,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/__pycache__/data_utils.cpython-37.pyc,data_utils.cpython-37,pyc,8244,0,,6,159,501
+161,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/__pycache__/gradient_check.cpython-37.pyc,gradient_check.cpython-37,pyc,3615,0,,6,159,501
+162,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/__pycache__/__init__.cpython-37.pyc,__init__.cpython-37,pyc,159,0,,6,159,501
+163,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/data_utils.py,data_utils,py,9563,0,,5,142,501
+164,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/layers.py,layers,py,34887,0,,5,142,501
+165,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/vis_utils.py,vis_utils,py,2319,0,,5,142,501
+166,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/optim.py,optim,py,6333,0,,5,142,501
+167,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers,classifiers,,39021,1,11,6,142,501
+168,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/fc_net.py,fc_net,py,5650,0,,6,167,501
+169,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/linear_svm.py,linear_svm,py,4024,0,,6,167,501
+170,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__init__.py,__init__,py,67,0,,6,167,501
+171,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__pycache__,__pycache__,,12312,1,5,7,167,501
+172,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__pycache__/k_nearest_neighbor.cpython-37.pyc,k_nearest_neighbor.cpython-37,pyc,4866,0,,7,171,501
+173,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__pycache__/linear_svm.cpython-37.pyc,linear_svm.cpython-37,pyc,1683,0,,7,171,501
+174,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__pycache__/linear_classifier.cpython-37.pyc,linear_classifier.cpython-37,pyc,4145,0,,7,171,501
+175,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__pycache__/softmax.cpython-37.pyc,softmax.cpython-37,pyc,1383,0,,7,171,501
+176,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/__pycache__/__init__.cpython-37.pyc,__init__.cpython-37,pyc,235,0,,7,171,501
+177,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/k_nearest_neighbor.py,k_nearest_neighbor,py,8534,0,,6,167,501
+178,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/linear_classifier.py,linear_classifier,py,5788,0,,6,167,501
+179,Google_20221008/云端硬盘/cs231n/assignments/assignment1/cs231n/classifiers/softmax.py,softmax,py,2422,0,,6,167,501
+180,Google_20221008/云端硬盘/cs231n/assignments/assignment1/makepdf.py,makepdf,py,1158,0,,4,140,501
+181,Google_20221008/云端硬盘/cs231n/assignments/assignment1/features.ipynb,features,ipynb,14353,0,,4,140,501
+182,Google_20221008/云端硬盘/cs231n/assignments/assignment1/knn.ipynb,knn,ipynb,366731,0,,4,140,501
+183,Google_20221008/云端硬盘/cs231n/assignments/assignment1/README.md,README,md,130,0,,4,140,501
+184,Google_20221008/云端硬盘/cs231n/assignments/assignment1/softmax.ipynb,softmax,ipynb,13727,0,,4,140,501
+185,Google_20221008/云端硬盘/cs231n/assignments/assignment1/collect_submission.ipynb,collect_submission,ipynb,1828,0,,4,140,501
+186,Google_20221008/云端硬盘/cs231n/assignments/assignment1/collectSubmission.sh,collectSubmission,sh,1257,0,,4,140,501
+187,Google_20221008/云端硬盘/cs231n/assignments/assignment1/svm.ipynb,svm,ipynb,351194,0,,4,140,501
+188,Google_20221008/云端硬盘/已删除邮件,已删除邮件,,110767367,1,6,2,128,501
+189,Google_20221008/云端硬盘/已删除邮件/Swiss-Dutch Lodging,Swiss-Dutch Lodging,,190173,1,2,3,188,501
+190,Google_20221008/云端硬盘/已删除邮件/Swiss-Dutch Lodging/12.27-12.28 Zurich.pdf,12.27-12.28 Zurich,pdf,36213,0,,3,189,501
+191,Google_20221008/云端硬盘/已删除邮件/Swiss-Dutch Lodging/Bookforvisa-Flight-Itinerary.pdf,Bookforvisa-Flight-Itinerary,pdf,153960,0,,3,189,501
+192,Google_20221008/云端硬盘/已删除邮件/High Art,High Art,,489233,1,2,3,188,501
+193,Google_20221008/云端硬盘/已删除邮件/High Art/Manga _ Comic.docx,Manga _ Comic,docx,6092,0,,3,192,501
+194,"Google_20221008/云端硬盘/已删除邮件/High Art/Tarkovsky, Mirror.JPG","Tarkovsky, Mirror",JPG,483141,0,,3,192,501
+195,Google_20221008/云端硬盘/已删除邮件/dev_ds.zip,dev_ds,zip,47682113,0,,2,188,501
+196,Google_20221008/云端硬盘/已删除邮件/banana_model,banana_model,,62405496,1,1,3,188,501
+197,Google_20221008/云端硬盘/已删除邮件/banana_model/model.h5,model,h5,62405496,0,,3,196,501
+198,Google_20221008/云端硬盘/Trip Planning,Trip Planning,,3169,1,2,2,128,501
+199,Google_20221008/云端硬盘/Trip Planning/2021.12.11-15 Chicago City.kmz,2021.12.11-15 Chicago City,kmz,2043,0,,2,198,501
+200,Google_20221008/云端硬盘/Trip Planning/2022.3.21-24 New York City.kmz,2022.3.21-24 New York City,kmz,1126,0,,2,198,501
+201,Google_20221008/云端硬盘/未整理,未整理,,3772856,1,10,2,128,501
+202,Google_20221008/云端硬盘/未整理/Norway Schengen Checklist.docx,Norway Schengen Checklist,docx,8455,0,,2,201,501
+203,Google_20221008/云端硬盘/未整理/12.11-13 Oslo.pdf,12.11-13 Oslo,pdf,69803,0,,2,201,501
+204,Google_20221008/云端硬盘/未整理/schengen-visa-document-checklist-with-business-.pdf,schengen-visa-document-checklist-with-business-,pdf,352436,0,,2,201,501
+205,Google_20221008/云端硬盘/未整理/12.13-15 Bergen.pdf,12.13-15 Bergen,pdf,69742,0,,2,201,501
+206,Google_20221008/云端硬盘/未整理/12.18-23 Stockholm.pdf,12.18-23 Stockholm,pdf,69551,0,,2,201,501
+207,Google_20221008/云端硬盘/未整理/Norway Tourist Schengen Visa - Single Entry.docx,Norway Tourist Schengen Visa - Single Entry,docx,9665,0,,2,201,501
+208,Google_20221008/云端硬盘/未整理/Meeting Notes 9_18-comments.html,Meeting Notes 9_18-comments,html,4488,0,,2,201,501
+209,Google_20221008/云端硬盘/未整理/Schengen Itinerary - Angel.docx,Schengen Itinerary - Angel,docx,3110271,0,,2,201,501
+210,Google_20221008/云端硬盘/未整理/12.15-18 Tromso.pdf,12.15-18 Tromso,pdf,69948,0,,2,201,501
+211,Google_20221008/云端硬盘/未整理/Meeting Notes,Meeting Notes,,0,1,0,3,201,501
+212,Google_20221008/云端硬盘/未整理/Itinerary,Itinerary,,0,1,0,3,201,501
+213,Google_20221008/云端硬盘/未整理/Lodging,Lodging,,0,1,0,3,201,501
+214,Google_20221008/云端硬盘/未整理/Meeting Notes 9_18.docx,Meeting Notes 9_18,docx,8305,0,,2,201,501
+215,Google_20221008/云端硬盘/Reading Notes,Reading Notes,,7225,1,1,2,128,501
+216,"Google_20221008/云端硬盘/Reading Notes/Katherine Hayles, How We Became Posthuman.docx","Katherine Hayles, How We Became Posthuman",docx,7225,0,,2,215,501
+217,Google_20221008/云端硬盘/YifanZou_Resume.pdf,YifanZou_Resume,pdf,162439,0,,1,128,501
+218,Google_20221008/云端硬盘/graph.json,graph,json,24683,0,,1,128,501
+219,Google_20221008/云端硬盘/无标题演示文稿.pptx,无标题演示文稿,pptx,32170,0,,1,128,501
+220,Google_20221008/云端硬盘/2022.12.22-28 Swizterland.kmz,2022.12.22-28 Swizterland,kmz,1465,0,,1,128,501
+221,Google_20221008/云端硬盘/MyWritings,MyWritings,,6660,1,1,2,128,501
+222,Google_20221008/云端硬盘/MyWritings/Self-Intros.docx,Self-Intros,docx,6660,0,,2,221,501
+223,Google_20221008/云端硬盘/Memories,Memories,,340088580,1,2,2,128,501
+224,Google_20221008/云端硬盘/Memories/video2856286511.mp4,video2856286511,mp4,238577326,0,,2,223,501
+225,Google_20221008/云端硬盘/Memories/video1856286511.mp4,video1856286511,mp4,101511254,0,,2,223,501
+226,Google_20221008/云端硬盘/Outlook,Outlook,,222873,1,3,2,128,501
+227,Google_20221008/云端硬盘/Outlook/Flight-Itinerary-52809.pdf,Flight-Itinerary-52809,pdf,153960,0,,2,226,501
+228,Google_20221008/云端硬盘/Outlook/ID_Card_0.pdf,ID_Card_0,pdf,52936,0,,2,226,501
+229,Google_20221008/云端硬盘/Outlook/Zou Yifan 202209071739070212.pdf,Zou Yifan 202209071739070212,pdf,15977,0,,2,226,501
+230,Google_20221008/环聊,环聊,,25,1,1,1,1,501
+231,Google_20221008/环聊/Hangouts.json,Hangouts,json,25,0,,1,230,501
+232,Google_20221008/Google Pay,Google Pay,,71201,1,3,1,1,501
+233,Google_20221008/Google Pay/汇款和请求付款,汇款和请求付款,,59,1,1,2,232,501
+234,Google_20221008/Google Pay/汇款和请求付款/汇款和请求付款.csv,汇款和请求付款,csv,59,0,,2,233,501
+235,Google_20221008/Google Pay/在 Google 产品和服务中完成的交易,在 Google 产品和服务中完成的交易,,277,1,1,2,232,501
+236,Google_20221008/Google Pay/在 Google 产品和服务中完成的交易/transactions_185080390506.csv,transactions_185080390506,csv,277,0,,2,235,501
+237,Google_20221008/Google Pay/已保存的项（包括会员卡和礼品卡）,已保存的项（包括会员卡和礼品卡）,,70577,1,1,2,232,501
+238,Google_20221008/Google Pay/已保存的项（包括会员卡和礼品卡）/积分、礼品卡和优惠.pdf,积分、礼品卡和优惠,pdf,70577,0,,2,237,501
+239,Google_20221008/网上论坛,网上论坛,,498,1,2,1,1,501
+240,Google_20221008/网上论坛/googlegroups.com,googlegroups.com,,370,1,2,2,239,501
+241,Google_20221008/网上论坛/googlegroups.com/用户数据,用户数据,,242,1,2,3,240,501
+242,Google_20221008/网上论坛/googlegroups.com/用户数据/近期活动记录,近期活动记录,,114,1,2,4,241,501
+243,Google_20221008/网上论坛/googlegroups.com/用户数据/近期活动记录/近期查看过的群组.csv,近期查看过的群组,csv,41,0,,4,242,501
+244,Google_20221008/网上论坛/googlegroups.com/用户数据/近期活动记录/近期查看过的讨论.csv,近期查看过的讨论,csv,73,0,,4,242,501
+245,Google_20221008/Chrome,Chrome,,7470138,1,7,1,1,501
+246,Google_20221008/Chrome/Autofill.json,Autofill,json,3165,0,,1,245,501
+247,Google_20221008/Chrome/BrowserHistory.json,BrowserHistory,json,7433903,0,,1,245,501
+248,Google_20221008/Chrome/SearchEngines.json,SearchEngines,json,17333,0,,1,245,501
+249,Google_20221008/Chrome/SyncSettings.json,SyncSettings,json,4786,0,,1,245,501
+250,Google_20221008/Chrome/Bookmarks.html,Bookmarks,html,8860,0,,1,245,501
+251,Google_20221008/Chrome/Extensions.json,Extensions,json,2091,0,,1,245,501
+252,Google_20221008/Chrome/Dictionary.csv,Dictionary,csv,0,0,,1,245,501
+253,Google_20221008/地图（您的地点）,地图（您的地点）,,2232,1,1,1,1,501
+254,Google_20221008/地图（您的地点）/已保存的地点.json,已保存的地点,json,2232,0,,1,253,501
+255,Google_20221008/Android 设备配置服务,Android 设备配置服务,,7443,1,2,1,1,501
+256,Google_20221008/Android 设备配置服务/Device-5201922587507495023.html,Device-5201922587507495023,html,3025,0,,1,255,501
+257,Google_20221008/Android 设备配置服务/Device-4648689243054281338.html,Device-4648689243054281338,html,4418,0,,1,255,501
+258,Google_20221008/Google Play 影视,Google Play 影视,,10,1,5,1,1,501
+259,Google_20221008/Google Play 影视/关联的服务.json,关联的服务,json,2,0,,1,258,501
+260,Google_20221008/Google Play 影视/观看列表.json,观看列表,json,2,0,,1,258,501
+261,Google_20221008/Google Play 影视/流式传输服务.json,流式传输服务,json,2,0,,1,258,501
+262,Google_20221008/Google Play 影视/评分.json,评分,json,2,0,,1,258,501
+263,Google_20221008/Google Play 影视/通知偏好设置.json,通知偏好设置,json,2,0,,1,258,501
+264,Google_20221008/Home 应用,Home 应用,,267,1,6,1,1,501
+265,Google_20221008/Home 应用/HomeApp.json,HomeApp,json,43,0,,1,264,501
+266,Google_20221008/Home 应用/HomeHistory.json,HomeHistory,json,3,0,,1,264,501
+267,Google_20221008/Home 应用/GoogleNestConnect.json,GoogleNestConnect,json,54,0,,1,264,501
+268,Google_20221008/Home 应用/SoundSensing.json,SoundSensing,json,46,0,,1,264,501
+269,Google_20221008/Home 应用/GoogleNestPartnerConnections.json,GoogleNestPartnerConnections,json,66,0,,1,264,501
+270,Google_20221008/Home 应用/SecurityAlarmClips.json,SecurityAlarmClips,json,55,0,,1,264,501
+271,Google_20221008/已保存,已保存,,6581,1,5,1,1,501
+272,Google_20221008/已保存/RV Camping.csv,RV Camping,csv,152,0,,1,271,501
+273,Google_20221008/已保存/收藏的地点.csv,收藏的地点,csv,1038,0,,1,271,501
+274,Google_20221008/已保存/Vintage Store.csv,Vintage Store,csv,2445,0,,1,271,501
+275,Google_20221008/已保存/New York airports.csv,New York airports,csv,868,0,,1,271,501
+276,Google_20221008/已保存/想去的地点.csv,想去的地点,csv,2078,0,,1,271,501
+277,Google_20221008/Google 帐号,Google 帐号,,126897,1,1,1,1,501
+278,Google_20221008/Google 帐号/angelzouyifan.SubscriberInfo.html,angelzouyifan.SubscriberInfo,html,126897,0,,1,277,501
+279,Google_20221008/日历,日历,,218900,1,6,1,1,501
+280,Google_20221008/日历/MyClasses.ics,MyClasses,ics,59836,0,,1,279,501
+281,Google_20221008/日历/Career_Event.ics,Career_Event,ics,35396,0,,1,279,501
+282,Google_20221008/日历/Personal.ics,Personal,ics,79920,0,,1,279,501
+283,Google_20221008/日历/Exam_Essay.ics,Exam_Essay,ics,8687,0,,1,279,501
+284,Google_20221008/日历/Study.ics,Study,ics,32739,0,,1,279,501
+285,Google_20221008/日历/OH_Audit.ics,OH_Audit,ics,2322,0,,1,279,501
+286,Google_20221008/Google 提醒,Google 提醒,,953,1,1,1,1,501
+287,Google_20221008/Google 提醒/Google 提醒.html,Google 提醒,html,953,0,,1,286,501
+288,Google_20221008/邮件,邮件,,239371513,1,1,1,1,501
+289,Google_20221008/邮件/所有邮件（含垃圾邮件和已删除邮件）.mbox,所有邮件（含垃圾邮件和已删除邮件）,mbox,239371513,0,,1,288,501
+290,Google_20221008/Google Play 商店,Google Play 商店,,10364,1,3,1,1,501
+291,Google_20221008/Google Play 商店/Installs.json,Installs,json,9344,0,,1,290,501
+292,Google_20221008/Google Play 商店/Purchase History.json,Purchase History,json,550,0,,1,290,501
+293,Google_20221008/Google Play 商店/Library.json,Library,json,470,0,,1,290,501

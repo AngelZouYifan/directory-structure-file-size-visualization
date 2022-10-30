@@ -1,0 +1,74 @@
+id,path,text_name,extension,size,folder,num_files,depth,parent,uid
+4,Google_20221014/My Activity/Google News/MyActivity.html,MyActivity,html,149367,0,,2,3,501
+3,Google_20221014/My Activity/Google News,Google News,,149367,1,1,2,2,501
+6,Google_20221014/My Activity/Maps/MyActivity.html,MyActivity,html,9229873,0,,2,5,501
+5,Google_20221014/My Activity/Maps,Maps,,9229873,1,1,2,2,501
+8,Google_20221014/My Activity/Ads/MyActivity.html,MyActivity,html,2553156,0,,2,7,501
+7,Google_20221014/My Activity/Ads,Ads,,2553156,1,1,2,2,501
+10,Google_20221014/My Activity/Google Lens/MyActivity.html,MyActivity,html,144234,0,,2,9,501
+9,Google_20221014/My Activity/Google Lens,Google Lens,,144234,1,1,2,2,501
+12,Google_20221014/My Activity/Video Search/MyActivity.html,MyActivity,html,214327,0,,2,11,501
+11,Google_20221014/My Activity/Video Search,Video Search,,214327,1,1,2,2,501
+14,Google_20221014/My Activity/Google Analytics/MyActivity.html,MyActivity,html,1108538,0,,2,13,501
+13,Google_20221014/My Activity/Google Analytics,Google Analytics,,1108538,1,1,2,2,501
+16,Google_20221014/My Activity/Google Play Store/MyActivity.html,MyActivity,html,180789,0,,2,15,501
+15,Google_20221014/My Activity/Google Play Store,Google Play Store,,180789,1,1,2,2,501
+18,Google_20221014/My Activity/Books/MyActivity.html,MyActivity,html,149049,0,,2,17,501
+17,Google_20221014/My Activity/Books,Books,,149049,1,1,2,2,501
+20,Google_20221014/My Activity/YouTube/MyActivity.html,MyActivity,html,2013111,0,,2,19,501
+19,Google_20221014/My Activity/YouTube,YouTube,,2013111,1,1,2,2,501
+22,Google_20221014/My Activity/Google Apps/MyActivity.html,MyActivity,html,166133,0,,2,21,501
+21,Google_20221014/My Activity/Google Apps,Google Apps,,166133,1,1,2,2,501
+24,Google_20221014/My Activity/Search/MyActivity.html,MyActivity,html,20621624,0,,2,23,501
+23,Google_20221014/My Activity/Search,Search,,20621624,1,1,2,2,501
+26,Google_20221014/My Activity/Android/MyActivity.html,MyActivity,html,201657,0,,2,25,501
+25,Google_20221014/My Activity/Android,Android,,201657,1,1,2,2,501
+28,Google_20221014/My Activity/Chrome/MyActivity.html,MyActivity,html,16274782,0,,2,27,501
+27,Google_20221014/My Activity/Chrome,Chrome,,16274782,1,1,2,2,501
+30,Google_20221014/My Activity/Google Store/MyActivity.html,MyActivity,html,142826,0,,2,29,501
+29,Google_20221014/My Activity/Google Store,Google Store,,142826,1,1,2,2,501
+32,Google_20221014/My Activity/Google Translate/MyActivity.html,MyActivity,html,142771,0,,2,31,501
+31,Google_20221014/My Activity/Google Translate,Google Translate,,142771,1,1,2,2,501
+34,Google_20221014/My Activity/Image Search/MyActivity.html,MyActivity,html,958775,0,,2,33,501
+33,Google_20221014/My Activity/Image Search,Image Search,,958775,1,1,2,2,501
+36,Google_20221014/My Activity/Drive/MyActivity.html,MyActivity,html,152349,0,,2,35,501
+35,Google_20221014/My Activity/Drive,Drive,,152349,1,1,2,2,501
+38,Google_20221014/My Activity/Travel/MyActivity.html,MyActivity,html,144411,0,,2,37,501
+37,Google_20221014/My Activity/Travel,Travel,,144411,1,1,2,2,501
+40,Google_20221014/My Activity/Gmail/MyActivity.html,MyActivity,html,148235,0,,2,39,501
+39,Google_20221014/My Activity/Gmail,Gmail,,148235,1,1,2,2,501
+42,Google_20221014/My Activity/Takeout/MyActivity.html,MyActivity,html,152029,0,,2,41,501
+41,Google_20221014/My Activity/Takeout,Takeout,,152029,1,1,2,2,501
+44,Google_20221014/My Activity/Help/MyActivity.html,MyActivity,html,192044,0,,2,43,501
+43,Google_20221014/My Activity/Help,Help,,192044,1,1,2,2,501
+46,Google_20221014/My Activity/Developers/MyActivity.html,MyActivity,html,152105,0,,2,45,501
+45,Google_20221014/My Activity/Developers,Developers,,152105,1,1,2,2,501
+2,Google_20221014/My Activity,My Activity,,55194297,1,22,1,1,501
+48,Google_20221014/Tasks/Tasks.json,Tasks,json,66533,0,,1,47,501
+47,Google_20221014/Tasks,Tasks,,66533,1,1,1,1,501
+49,Google_20221014/archive_browser.html,archive_browser,html,195047,0,,0,1,501
+52,Google_20221014/YouTube and YouTube Music/playlists/Baking.csv,Baking,csv,440,0,,2,51,501
+53,Google_20221014/YouTube and YouTube Music/playlists/Art.csv,Art,csv,365,0,,2,51,501
+54,Google_20221014/YouTube and YouTube Music/playlists/Media Studies.csv,Media Studies,csv,561,0,,2,51,501
+55,Google_20221014/YouTube and YouTube Music/playlists/Zoology.csv,Zoology,csv,297,0,,2,51,501
+56,Google_20221014/YouTube and YouTube Music/playlists/Poetry_Literature.csv,Poetry_Literature,csv,343,0,,2,51,501
+57,Google_20221014/YouTube and YouTube Music/playlists/Uploads from Yifan Zou.csv,Uploads from Yifan Zou,csv,272,0,,2,51,501
+58,Google_20221014/YouTube and YouTube Music/playlists/Music.csv,Music,csv,475,0,,2,51,501
+59,Google_20221014/YouTube and YouTube Music/playlists/Liked videos.csv,Liked videos,csv,2202,0,,2,51,501
+60,Google_20221014/YouTube and YouTube Music/playlists/History_Society.csv,History_Society,csv,269,0,,2,51,501
+61,Google_20221014/YouTube and YouTube Music/playlists/Watch later.csv,Watch later,csv,1345,0,,2,51,501
+62,Google_20221014/YouTube and YouTube Music/playlists/English Learning.csv,English Learning,csv,378,0,,2,51,501
+51,Google_20221014/YouTube and YouTube Music/playlists,playlists,,6947,1,11,2,50,501
+64,Google_20221014/YouTube and YouTube Music/subscriptions/subscriptions.csv,subscriptions,csv,3538,0,,2,63,501
+63,Google_20221014/YouTube and YouTube Music/subscriptions,subscriptions,,3538,1,1,2,50,501
+66,Google_20221014/YouTube and YouTube Music/my-comments/my-comments.html,my-comments,html,463,0,,2,65,501
+65,Google_20221014/YouTube and YouTube Music/my-comments,my-comments,,463,1,1,2,50,501
+68,Google_20221014/YouTube and YouTube Music/videos/UChicago CMSC 20300 Intro to HCI HW3 Yifan Zou.mp4,UChicago CMSC 20300 Intro to HCI HW3 Yifan Zou,mp4,83799036,0,,2,67,501
+69,Google_20221014/YouTube and YouTube Music/videos/Video Metadata.csv,Video Metadata,csv,616,0,,2,67,501
+70,Google_20221014/YouTube and YouTube Music/videos/UChicago CMSC 20300 Intro to HCI - HW4.mp4,UChicago CMSC 20300 Intro to HCI - HW4,mp4,19679715,0,,2,67,501
+67,Google_20221014/YouTube and YouTube Music/videos,videos,,103479367,1,3,2,50,501
+72,Google_20221014/YouTube and YouTube Music/history/watch-history.html,watch-history,html,1710303,0,,2,71,501
+73,Google_20221014/YouTube and YouTube Music/history/search-history.html,search-history,html,1103197,0,,2,71,501
+71,Google_20221014/YouTube and YouTube Music/history,history,,2813500,1,2,2,50,501
+50,Google_20221014/YouTube and YouTube Music,YouTube and YouTube Music,,106304711,1,18,1,1,501
+1,Google_20221014/,,,161761708,1,42,0,0,501
